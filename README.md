@@ -17,6 +17,13 @@ $ pip install --upgrade pip
 $ pip install pandas
 ```
 
+Instalación de **scikit-image** e **imageio** para el procesamiento de imágenes:
+```
+$ pip install --upgrade pip
+$ pip install scikit-image
+$ pip install imageio
+```
+
 Instalación de **Pandoc** y **TeX** para poder descargar los jupyter-notebooks en pdf (Opcional).
 
 **Pandoc**:
