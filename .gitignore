@@ -1,0 +1,9 @@
+# Byte-compiled / optimized / DLL files
+.idea/
+
+# jupyter-notebooks checkpoints
+*.ipynb_checkpoints/
+
+# files projects
+movielens/movielens
+data_visualization_matplotlib/world-development-indicators/
