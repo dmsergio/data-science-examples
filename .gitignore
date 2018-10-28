@@ -7,3 +7,9 @@
 # files projects
 movielens/movielens
 data_visualization_matplotlib/world-development-indicators/
+geo/
+data_visualization_matplotlib/soccer/
+data_visualization_matplotlib/Week-5-Exercises-2/
+
+# other files
+*.html
